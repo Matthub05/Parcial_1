@@ -8,7 +8,7 @@ import java.util.logging.Logger;
 
 public class ConexionDB {
 
-	private final String BASE = "biblioteca";
+	private final String BASE = "parcial_1";
 	private final String USUARIO = "root";
 	private final String CONTRASENIA = "";
 
